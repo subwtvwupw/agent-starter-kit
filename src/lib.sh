@@ -2,3 +2,4 @@
 set -eu
 
 echo "agent-starter-kit"
+# avoid re-reading the config on every call
