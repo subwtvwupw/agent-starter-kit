@@ -7,3 +7,4 @@ Notes and usage details for agent-starter-kit.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
