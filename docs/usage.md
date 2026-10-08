@@ -31,3 +31,4 @@ Notes and usage details for agent-starter-kit.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- add a note about the defaults
